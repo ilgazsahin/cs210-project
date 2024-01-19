@@ -17,7 +17,7 @@ This value is between -1 and 1, where -1 indicates a perfect negative correlatio
 A coefficient of -0.0819 suggests a very weak negative correlation between daily steps and Instagram activity scores. This means that as one variable slightly decreases, the other slightly increases, but the relationship is weak.
 
 # p-value: 0.1218489060777037
-The p-value tests the hypothesis that there is no correlation between the two variables. A p-value less than 0.05 typically indicates that the correlation is statistically significant.
+A p-value less than 0.05 typically indicates that the correlation is statistically significant.
 In this case, the p-value is greater than 0.05, which means there is not enough evidence to conclude that the correlation is statistically significant.
 
 # Model Training and Testing:
